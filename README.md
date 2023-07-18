@@ -1,2 +1,2 @@
 # my_website
-[Search for it.](www.google.com)
+* How to eat a chicken nugget
